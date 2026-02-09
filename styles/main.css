@@ -1,6 +1,8 @@
 .page__container {
   padding-inline: clamp(1rem, -1.8571rem + 14.2857vw, 5rem);
   padding-top: 48px;
+  margin: 0 auto;
+  max-width: 1440px;
 }
 
 .article {
